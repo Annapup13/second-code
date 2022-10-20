@@ -1,0 +1,31 @@
+#colorID{
+color: orange;
+}
+
+
+.textColor{
+    color: pink;
+    font-size: 60px;
+    transition: 0.3s;
+    font-family: 'Inspiration', cursive;
+}
+.textColor:hover{
+color: blue;
+font-size: 70px;
+}
+.background1{
+    background-color: green;
+    height: 50px;
+}
+.background2{
+background-color: lime;
+height: 75px;
+}
+.background3{
+    background-color: purple;
+    height: 100px;
+    }
+.rowWrapper{
+    height: 150px;
+    background-color: black;
+}
